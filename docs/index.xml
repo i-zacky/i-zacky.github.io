@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TeamBeyond Tech Blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on TeamBeyond Tech Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 07 Nov 2018 22:18:23 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample</title>
+      <link>http://example.org/posts/sample/</link>
+      <pubDate>Wed, 07 Nov 2018 22:18:23 +0900</pubDate>
+      
+      <guid>http://example.org/posts/sample/</guid>
+      <description> Hoge </description>
+    </item>
+    
+  </channel>
+</rss>
